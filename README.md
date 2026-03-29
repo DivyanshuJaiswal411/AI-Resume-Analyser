@@ -36,7 +36,7 @@ Enter it in the sidebar when the app opens.
 | Multi-turn chat | Ask anything — full conversation memory |
 
 ## Tech Stack
-- **Google Gemini 1.5 Flash** — LLM backbone
+- **Google Gemini 2.5 Flash** — LLM backbone
 - **LangChain** — conversation chain + memory management
 - **Streamlit** — web UI
 - **PyPDF2 / python-docx** — resume text extraction
